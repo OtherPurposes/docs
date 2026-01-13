@@ -81,10 +81,6 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      },
-      {
         "label": "Testing",
         "href": "http://google.com/"
       }
